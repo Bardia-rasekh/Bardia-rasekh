@@ -1,15 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <queue>
-#include <stack>
-#include <list>
-#include <set>
-#include <tuple>
 #include <bits/stdc++.h>
-#include <map>
-#include <algorithm>
-
 
 using namespace std;
 
