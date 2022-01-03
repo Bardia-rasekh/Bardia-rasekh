@@ -5,13 +5,11 @@
 
 using namespace std;
 
-
 int main()
 {
     string temp_str;
     int n, m, i;
     float p;
-
 
     getline(cin, temp_str);
     temp_str += " ";
