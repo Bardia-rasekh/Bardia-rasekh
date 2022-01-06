@@ -28,8 +28,6 @@ int main()
         }
     }
     sort(digit_count, digit_count + 10, sort_functioon);
-
-    //for (int i = 0; i < 10; i++) cout << digit_count[i].first << " : " << digit_count[i].second << endl;
     
     digit_source = "";
     if (!digit_count[0].first)
