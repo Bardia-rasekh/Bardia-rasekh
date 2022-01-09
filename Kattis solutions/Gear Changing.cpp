@@ -10,7 +10,7 @@ int main()
     string temp_str;
     int n, m, i;
     float p;
-
+    
     getline(cin, temp_str);
     temp_str += " ";
 
@@ -46,7 +46,7 @@ int main()
     }
     
     vector<float> result;
-
+    
     for (i = 0; i < n; i++) for (int j = 0; j < m; j++) result.push_back(m_arr[j] / n_arr[i]);
     sort(result.begin(), result.end());
 
